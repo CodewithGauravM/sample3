@@ -1,0 +1,30 @@
+#homepage, #aboutpage, #contactpage, #servicepage{
+    text-align: center;
+    height: 600px;
+}
+#homepage{
+ background-color: wheat;
+ margin-top: 30px;
+ /* position: relative; */
+}
+#aboutpage{
+    background-color: rgb(117, 98, 68);
+}
+#contactpage{
+    background-color: chocolate;
+}
+#servicepage{
+    background-color: cornflowerblue;
+}
+nav{
+    margin: 10px;
+    margin-left: 30%;
+    position: fixed;
+    margin-top: 0;
+}
+a{
+    margin-left: 85px;
+}
+h1{
+    margin-top: 40px;
+}
